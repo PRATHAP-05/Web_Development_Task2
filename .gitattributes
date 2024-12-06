@@ -1,2 +1,298 @@
+<!--day-1-->
+<!DOCKtype html>
+<html>
+<head>
+<title>web development </title>
+<!--style-->
+<style>
+body
+{
+background-color:lightblue;
+}
+
+h1,h2
+{
+color:blue;
+text-align:center;
+}
+
+p{
+color:red;
+text-align:left;
+}
+
+table
+{
+background-color:green;
+}
+
+tbody tr:hover
+{
+background-color:brown;
+}
+
+video
+{
+text-align:right;
+}
+
+</style>
+</head>
+<body>
+
+<h1> the free online it coding training class </h1>
+
+<h2><span><i>These unique online courses use youth storytelling to bring social issues to life through day-to-day realities.</i></span><h2>
+<p>Each course – designed in our Content Creation Lab youth internship program – provides an age-appropriate introduction to pressing 
+issues. Youth learners can read real, impactful stories from other youth course participants around the world, share their own, and participate
+ in moderated live convers ationsThese courses are ideal for in-person and virtual classrooms, adult-led youth groups, and homeschooled and 
+ individual learners ages 13-19.o register for Student to World, please select one of the following courses.</p>
+<br>
+<nav/>
+<ol>
+<!--inline-->
+<li><h2 style="background-color:white;">web pag development</h2></li>
+<li><h3 style="background-color:white;">python development</h3></li>
+<li><h4 style="background-color:white;">digital marketing </h4></li>
+<li><h5 style="background-color:white;">ui/ux development</h5></li>
+<li><h6 style="background-color:white;">and more </h6></li>
+
+</ol>
+</nav>
+<!--link-->
+<a href="https://studio.youtube.com">youtube</a><br>
+<img src='image//05.jpg' width='200px' height='300px'> <br>
+Visit:<a href='http://www.google.com /'>google</a><br>
+<a href="http://justrise.in/">Visit justrise.in </a> <br>
+
+
+<h2>Embark on a journey to master the fundamentals of HTML with our comprehensive list of free online courses. Whether you're a beginner 
+with no previous coding experience or a seasoned developer looking to refresh your skills, our curated selection of HTML courses will help 
+you learn at your own pace without any financial investment. Dive into the world of web development and start building the foundation for 
+your digital creations today.</h2>
+
+<h3>Starting with the basics, our beginner-friendly courses cover everything from the structure of an HTML document to the essential tags 
+and attributes. Learn how to create headings, paragraphs, lists, and links, and understand the significance of semantic HTML for accessibility 
+and SEO. These courses are designed to help you get comfortable with writing HTML code, setting up a solid groundwork for more advanced topics.
+<!--description list-->
+<dl>
+<dt>Advanced HTML Techniques</dt>
+<dd>For those who have a grasp on the basics and are ready to delve deeper, our advanced HTML courses offer lessons on complex elements like tables, 
+forms, and multimedia integration. Gain expertise in creating responsive designs with HTML5 and discover how to optimize your web pages for 
+search engines and performance. These courses will take your skills to the next level and prepare you for professional web development roles.</h3></dd>
+</dl>
+<!--order LIST-->
+<ol>
+<li><p> open linke widows or tab <a href='http://www.google.com /'target=_'self'>self linke</a></p></li>
+<li><p> open linke in a widows or tab <a href='http://www.google.com /'target=_'blank'>black line</a></p></li>
+<li><p> open linke in a next levelup <a href='http://www.google.com /'target=_'parent'>parent</a></p></li>
+<li><p> open linke in a top document in the some bewser <a href='http://www.google.com /'target=_'top'>self linke</a></p></li>
+<li><p> open linke a specific frem <a href='http://justrise.in/' target=_'framname'> framnae</a></p></li>
+<li><p>download pdf <a href='fill.pdf' download='example'>pdf</a></p></li>
+<li><a href='m.s.prathap50"gmail.com'>send to email</a></li>
+<li><a href='tel:+8870016698'> +8870016698</a></li>
+</ol>
+
+<!--inline style-->
+<p style='color:gray;'>ONLINE CLASS TRAINAR'S DETAILS </p>
+
+<!--table-->
+<table  border="1">
+<tr>
+<th scope='col'>no</th>
+<th>anme</th>
+<th>jander</th>
+<th>age</th>
+<th>places</th>
+<th>salary</th>
+<th>date</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>prathap</td>
+<td>mail</td>
+<td>20</td>
+<td>dharmapuri</td>
+<td>20000%</td>
+<td>05/11/2024</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Aadhi</td>
+<td>mail</td>
+<td>21</td>
+<td>dharmapuri</td>
+<td>20000%</td>
+<td>05/11/2024</td>
+</tr>
+
+
+
+
+<tr>
+<td>3</td>
+<td>Aslam</td>
+<td>mail</td>
+<td>24</td>
+<td>dharmapuri</td>
+<td>20000%</td>
+<td>05/11/2024</td>
+</tr>
+
+
+
+<tr>
+<td>4</td>
+<td>Anbu</td>
+<td>mail</td>
+<td>24</td>
+<td>dharmapuri</td>
+<td>25000%</td>
+<td>05/11/2024</td>
+</tr>
+
+
+
+<tr>
+<td>5</td>
+<td>Arvindh</td>
+<td>mail</td>
+<td>22</td>
+<td>dharmapuri</td>
+<td>20000%</td>
+<td>05/11/2024</td>
+</tr>
+
+
+
+<tr>
+<td>6</td>
+<td>Abi</td>
+<td>femail</td>
+<td>20</td>
+<td>dharmapuri</td>
+<td>15000%</td>
+<td>05/11/2024</td>
+</tr>
+
+
+
+<tr>
+<td>7</td>
+<td>Ramya</td>
+<td>femail</td>
+<td>20</td>
+<td>dharmapuri</td>
+<td>15000%</td>
+<td>05/11/2024</td>
+</tr>
+</table>
+
+<!--video-->
+<video width='700px' height='500px' controls>
+<source src='video//Day7.mp4'>
+</video>
+
+
+<h2><p style='color:yellow;'>COURSE DETAILS</P></h2>
+
+<!--paragraphs and heading tags-->
+<h1>1.WEB PAG DEVELOPMENT</h1>
+
+<h2 style='background-color:brown;'>Free Web Development Courses</h2>
+<h2>Free Web Development Courses Online with Certificates...</h2>
+<!--dl description list-->
+<dl>
+<dd><p style='background-color:green;'>Enrol in free online web development courses from Great Learning Academy, covering all skill levels from beginner to advanced. 
+Gain essential expertise for success in the IT industry, learn the latest web technologies, and earn certificates upon completion.</p></dd>
+</dl>
+
+ <h3>Yes, you can enroll in as many courses as you want from Great Learning Academy. There is no limit to the number of courses you can
+ enroll in at once, but since the courses offered by Great Learning Academy are free, we suggest you learn one by one to get the best out 
+ of the subject.</h3>
+<h3>Great Learning Academy provides these Web Development courses for free online. The courses are self-paced and help you understand 
+various topics that fall under the subject with solved problems and demonstrated examples. The courses are carefully designed, keeping in 
+mind to cater to both beginners and professionals, and are delivered by subject experts.</h3>
+<h3>Great Learning is a global ed-tech platform dedicated to developing competent professionals. Great Learning Academy is an initiative 
+by Great Learning that offers in-demand free online courses to help people advance in their jobs. More than 5 million learners from 140 
+countries have benefited from Great Learning Academy's free online courses with certificates. It is a one-stop place for all of a learner's 
+goals. </h3>
+
+<h1>2.python development</h2>
+<dl>
+<dd><h2 style='background-color:salmon;'>Learn Python® – the fastest growing programming language in the world</h2><dd>
+</dl>
+<h3>The aim of this mini-course is to give experienced developers a clear and concise overview of the Python language, so they can 
+understand and write Python code in as short a time as possible. There are many Python books, courses, and tutorials out there, but this 
+one is different in a way that it provides only the bare minimum information to be productive, thereby making use of your existing
+ programming knowledge and not wasting your time with unnecessary background information.</h3>
+<h3>"hese are high-quality courses. Trust me. I own around 10 and the price is worth it for the content quality. EducativeInc came at the 
+right time in my career. I'm understanding topics better than with any book or online video tutorial I've done. Truly made for developers. 
+Thanks"</h3>
+
+
+<h1>3.digital marketing</h1>
+</dl>
+<dd><h2><mark>India's 1st Corporate focused Digital Marketing Foundations Course   Free for Selected Learners</mark> </h2></dd>
+</dl>
+<h3>Digital marketing is the use of digital technologies and platforms to promote products and services, as well as to connect with 
+potential customers. It is an incredibly versatile and powerful tool that can be used in various ways to reach people worldwide. Digital 
+marketing utilizes multiple digital technologies to deliver promotional messages, such as mobile phones, computers, and other digital
+media and platforms. It can be used for B2B (Business to Business) and B2C (Business to Consumer) marketing, depending on the goal and
+objectives of the campaign. Digital marketing offers unique advantages such as greater reach, improved targeting, personalized messaging, 
+and better ROI (Return on Investment). It also allows businesses to stay up-to-date with marketing trends and technologies. With the right
+strategies and tactics, companies can leverage digital marketing to increase their visibility and reach a larger audience.</h3>
+ 
+ <h1>4.ui/ux development</h1>
+ <dl>
+ <dd><h2 style='background-color:green;'>What is UI/UX design and why is it important?</h2></dd>
+ <dl>
+ <h3>Embark on a simplified and engaging UI UX design course tailored for beginners and enthusiasts alike.
+This UI UX course breaks down the essentials of user interface (UI) and user experience (UX) design into easy-to-understand concepts.
+Start with the basics: what UI and UX mean and how they play a critical role in creating products that are not only good to look at but 
+also easy and enjoyable to use. This journey takes you through the core processes of UX design, including understanding user needs and 
+creating designs that meet those needs effectively. Through practical exercises, you’ll get to practice making wireframes and prototypes, 
+key steps in bringing your design ideas to life. The course also covers the visual aspects of design, introducing you to the tools and 
+principles used in UI design.<h3>
+ 
+ <!--audio-->
+<audio controls>
+<source src='audio//rolex.m4a' type='audio/mp3'>
+</audio>
+
+<!--style mark-->
+<h4> <mark>any one interested call me
+ and textme this nember </mark><h4>
+
+<!--table rowspan-->
+<table border="1">
+<tr>
+<th rowspan="2">Phone</th>
+<td>8870016698</td>
+</tr>
+<tr>  
+<td>8870016698</td>
+</tr>
+</table>
+<p style=text-align:center;> <b>open linke in a next levelup</b> <a href='http://www.google.com /'target=_'read more'>nex pag...</a></p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Auto detect text files and perform LF normalization
 * text=auto
